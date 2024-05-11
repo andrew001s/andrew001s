@@ -17,6 +17,7 @@
   [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjxyFoqzFm45CJmOB6ANqiA?style=social)](https://www.youtube.com/@Shandrew?sub_confirmation=1)
   [![Twitch Status](https://img.shields.io/twitch/status/elshandrew?style=social)](https://www.twitch.tv/elshandrew)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=message)](https://www.linkedin.com/in/andr%C3%A9s-rom%C3%A1n/)
+  [![Other](https://img.shields.io/badge/More-0077B5?style=message)](https://shandrewcard.netlify.app/)
 </p>
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 <p align="center">
