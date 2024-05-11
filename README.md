@@ -18,7 +18,7 @@
   [![Twitch Status](https://img.shields.io/twitch/status/elshandrew?style=social)](https://www.twitch.tv/elshandrew)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=message)](https://www.linkedin.com/in/andr%C3%A9s-rom%C3%A1n/)
 </p>
-<p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</p>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 <p align="center">
 
 <table align="center">
@@ -79,7 +79,7 @@
 <br>    
 </td>
 </table>
-<h2>Proyectos</h2>
+<h2>Proyects</h2>
 <table>
   <td width="50%">
     <h3 align="center">🔗Social Media Links🔗</h3>
@@ -87,7 +87,7 @@
       <a href="https://github.com/andrew001s/shandrewcard" target="_blank"><img src="https://i.imgur.com/jJR24Wc.png" width="400" alt="Social Media Links"></a>
       <p>
         <a href="https://github.com/andrew001s/shandrewcard" target="_blank">
-          <img src="https://img.shields.io/badge/Código-B4A4DC?style=for-the-badge&logo=github&logoColor=white&color=black">
+          <img src="https://img.shields.io/badge/Code-B4A4DC?style=for-the-badge&logo=github&logoColor=white&color=black">
         </a>
         <a href="https://shandrewcard.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/-Page-green?style=for-the-badge&color=gray">
