@@ -95,7 +95,21 @@
         </a>
       </p>
     </div>                                                                                       
-  </td>                           
+  </td>
+  <td width="50%">
+    <h3 align="center">🔗Artist Portfolio🔗</h3>
+    <div align="center">
+      <a href="https://github.com/andrew001s/Portfolio_Shandrew_Template" target="_blank"><img src="[img]https://i.imgur.com/XQ6pIEp.png" width="400" alt="Artist Portfolio"></a>
+      <p>
+        <a href="https://github.com/andrew001s/Portfolio_Shandrew_Template" target="_blank">
+          <img src="https://img.shields.io/badge/Code-B4A4DC?style=for-the-badge&logo=github&logoColor=white&color=black">
+        </a>
+        <a href="https://shandrewpage.tools.shandrew.tech/" target="_blank">
+          <img src="https://img.shields.io/badge/-Page-green?style=for-the-badge&color=gray">
+        </a>
+      </p>
+    </div>                                                                                       
+  </td>   
 </table>  
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center">
