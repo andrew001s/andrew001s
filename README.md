@@ -99,7 +99,7 @@
   <td width="50%">
     <h3 align="center">🔗Artist Portfolio🔗</h3>
     <div align="center">
-      <a href="https://github.com/andrew001s/Portfolio_Shandrew_Template" target="_blank"><img src="[img]https://i.imgur.com/XQ6pIEp.png" width="400" alt="Artist Portfolio"></a>
+      <a href="https://github.com/andrew001s/Portfolio_Shandrew_Template" target="_blank"><img src="https://i.imgur.com/XQ6pIEp.png" width="400" alt="Artist Portfolio"></a>
       <p>
         <a href="https://github.com/andrew001s/Portfolio_Shandrew_Template" target="_blank">
           <img src="https://img.shields.io/badge/Code-B4A4DC?style=for-the-badge&logo=github&logoColor=white&color=black">
