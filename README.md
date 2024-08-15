@@ -28,7 +28,7 @@
     <br>   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,python&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cs,python,js&perline=14" />
   </a>
 </p></td>
 <td width="auto">
@@ -37,7 +37,7 @@
     <br>   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,react,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,bootstrap&perline=14" />
   </a>
 </p>
 <br>
