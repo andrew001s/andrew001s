@@ -104,7 +104,7 @@
         <a href="https://github.com/andrew001s/Portfolio_Shandrew_Template" target="_blank">
           <img src="https://img.shields.io/badge/Code-B4A4DC?style=for-the-badge&logo=github&logoColor=white&color=black">
         </a>
-        <a href="https://shandrewpage.tools.shandrew.tech/" target="_blank">
+        <a href="https://shandrewportfolio.tools.shandrew.tech/" target="_blank">
           <img src="https://img.shields.io/badge/-Page-green?style=for-the-badge&color=gray">
         </a>
       </p>
